@@ -1,0 +1,14 @@
+C:\Users\lbert\source\repos\Pepe\Pepe\bin\Debug\Pepe.exe.config
+C:\Users\lbert\source\repos\Pepe\Pepe\bin\Debug\Pepe.exe
+C:\Users\lbert\source\repos\Pepe\Pepe\bin\Debug\Pepe.pdb
+C:\Users\lbert\source\repos\Pepe\Pepe\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\lbert\source\repos\Pepe\Pepe\bin\Debug\WebDriver.dll
+C:\Users\lbert\source\repos\Pepe\Pepe\bin\Debug\WebDriver.xml
+C:\Users\lbert\source\repos\Pepe\Pepe\obj\Debug\Pepe.csprojAssemblyReference.cache
+C:\Users\lbert\source\repos\Pepe\Pepe\obj\Debug\Pepe.Properties.Resources.resources
+C:\Users\lbert\source\repos\Pepe\Pepe\obj\Debug\Pepe.csproj.GenerateResource.cache
+C:\Users\lbert\source\repos\Pepe\Pepe\obj\Debug\Pepe.csproj.CoreCompileInputs.cache
+C:\Users\lbert\source\repos\Pepe\Pepe\obj\Debug\Pepe.csproj.CopyComplete
+C:\Users\lbert\source\repos\Pepe\Pepe\obj\Debug\Pepe.exe
+C:\Users\lbert\source\repos\Pepe\Pepe\obj\Debug\Pepe.pdb
+C:\Users\lbert\source\repos\Pepe\Pepe\obj\Debug\Pepe.FrmMain.resources

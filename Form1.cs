@@ -16,15 +16,14 @@ namespace Pepe
         {
             Robot robot = new Robot();
             MethodInvoker invPBarStart = delegate
-             {
+            {
                 //ZERAR BARRA DE PROGRESSO
                 pBar.Value = 0;
                 //DEFININDO VALOR DA BARRA DE PROGRESSO
-                pBar.Maximum = dgvMain.RowCount;
-                //PERCORRER REGISTROS DO DATAGRIDVIEW
+                pBar.Maximum = dgvMain.RowCount;              
             };
             Invoke(invPBarStart);
-
+            //PERCORRER REGISTROS DO DATAGRIDVIEW
             foreach (DataGridViewRow row in dgvMain.Rows)
             {
                 MethodInvoker invDgvStart = delegate
@@ -59,6 +58,7 @@ namespace Pepe
 
         private async void bntPlay_Click(object sender, EventArgs e)
         {
+            //CHAMAR METODO GETQUOTES DE FORMA ASSINCRONA
             await Task.Run(() => GetQuotes());
         }
 
